@@ -7,4 +7,4 @@ To run the solutions, use gradle:
 $ ./gradlew run --args="<day>"
 ```
 
-Solution inputs are in `src/main/resources/<day>/input.txt`.
+Solution inputs are in `src/main/resources/day<day>.txt`.

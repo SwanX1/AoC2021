@@ -26,8 +26,8 @@ import dev.cernavskis.aoc2021.util.Utils;
 public class Day2 {
   public static void main(String[] args) {
     try {
-      System.out.println("Part 1: " + solvePart1(Utils.getBufferedReader("day2/input.txt")));
-      System.out.println("Part 2: " + solvePart2(Utils.getBufferedReader("day2/input.txt")));
+      System.out.println("Part 1: " + solvePart1(Utils.getBufferedReader("day2.txt")));
+      System.out.println("Part 2: " + solvePart2(Utils.getBufferedReader("day2.txt")));
     } catch (Exception e) {
       e.printStackTrace();
     }
